@@ -8,7 +8,7 @@ The user should be able to load a predefined board (see `sample_patterns` folder
 
 In the most basic version you can just print `#` and `.` on a screen. However, this will result in the minimal mark. It is much better to use some graphics library (e.g. Matplotlib with [animations](https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/) and [`imshow`](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.imshow.html)) or any other library of your choice).
 
-Use whichever libraries or you need. Give it your own personal style. However, please mind that the quality of our code will be assessed. In any case, your code **must** object-oriented with a good separation between the logic and the presentation layer.
+Use whichever libraries or you need. Give it your own personal style. However, please mind that the quality of our code will be assessed. In any case, your code **must** provide a good separation between the logic and the presentation layer.
 
 The main code must be run in the `main.py` file.
 
