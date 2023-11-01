@@ -10,7 +10,7 @@ In the most basic version you can just print `#` and `.` on a screen. However, t
 
 Use whichever libraries or you need. Give it your own personal style. However, please mind that the quality of our code will be assessed. In any case, your code **must** object-oriented with a good separation between the logic and the presentation layer.
 
-The main code must be run in the `life.py` file.
+The main code must be run in the `main.py` file.
 
 <hr/>
 
